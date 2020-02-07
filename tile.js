@@ -87,8 +87,7 @@ function createMarilynTile() {
     console.log('Inspired by Andy Warhol\'s series of Marilyn Monroe portraits');
   }
 
- 
-function draw() {
+ function draw() {
     createMarilynTile();
 }
  
