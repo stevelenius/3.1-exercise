@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(200,200);
+  createCanvas(200, 200);
   background("#FFF")
   noLoop();
 }
@@ -85,7 +85,6 @@ function createMarilynTile() {
     ellipse(135, 49, 50, 56);
 
     console.log('Inspired by Andy Warhol\'s series of Marilyn Monroe portraits');
-  
   }
 
  
